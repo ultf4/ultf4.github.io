@@ -1,6 +1,5 @@
 <html>
-	<head>
-		<t>ultf4.github.io</t>
+	<head>ultf4.github.io
 	</head>
 	<p>nop</p>
 </html>
